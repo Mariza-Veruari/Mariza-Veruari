@@ -4,53 +4,53 @@
 </h2> 
 <table>
   <tr>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
       <br>Python
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue.js" />
       <br>Vue.js
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
       <br>React
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
       <br>CSS3
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
       <br>PHP
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
       <br>MySQL
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" />
       <br>WordPress
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
       <br>Git
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
       <br>Linux
     </td>
