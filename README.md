@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Mariza Veruari, a Software Developer & AI Engineer from Albania 🌍</h2>
+<h2 align="left">Hi 👋! I'm Mariza Veruari, a Software Developer & AI Engineer </h2>
 
 ###
 
@@ -71,7 +71,9 @@
 I'm known as **The Singing Programmer** 🎶 — blending code with creativity!  
 Currently developing with **Python, JavaScript**, and exploring **AI, LLMs & MLOps** 🤖  
 Community builder at **R-Ladies Tirana** 💜 and passionate about learning & sharing tech knowledge!
+Lead @ PyLadies Tirana | Empowering women in tech & fostering a supportive Python community 🚀🐍
 
+- 👩‍💻 Lead @ PyLadies Tirana 
 - 💡 Python Developer @ Datawise Solutions  
 - 📚 MSc & BSc in Computer Science – Tirana University  
 - 🧠 Fluent in 🇬🇧 🇮🇹 🇪🇸 🇩🇪 🇵🇹  
