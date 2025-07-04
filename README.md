@@ -13,8 +13,8 @@
 
 ###
 
-### 💻 Tech Stack
-
+<h2>💻 Tech Stack
+</h2> 
 <table>
   <tr>
     <td align="center">
@@ -70,9 +70,7 @@
   </tr>
 </table>
 
-###
-
-### 🎤 About Me
+<h2> 🎤 About Me </h2>
 
 I'm known as **The Singing Programmer** 🎶 — blending code with creativity!  
 Currently developing with **Python, JavaScript**, and exploring **AI, LLMs & MLOps** 🤖  
@@ -83,18 +81,14 @@ Community builder at **R-Ladies Tirana** 💜 and passionate about learning & sh
 - 🧠 Fluent in 🇬🇧 🇮🇹 🇪🇸 🇩🇪 🇵🇹  
 - 🎤 Studio singer | 🏋️ CrossFitter | 🥾 Hiker
 
-###
-
-### 🧪 Current Project
+<h2>🧪 Current Project</h2>
 
 **🎶 AI Song Generator (Ongoing)**  
 An AI-powered tool that creates custom lyrics and melodies from user prompts.  
 **Stack:** `Python`, `GPT-4`, `Magenta`, `Jukebox`, `Flask`, `Streamlit`  
 **Features:** AI lyrics, melody composition, and potential vocals 🎧
 
-###
-
-### 📫 Let's Connect
+<h2>📫 Let's Connect</h2>
 
 <div align="left">
   <a href="mailto:marveruari@gmail.com" target="_blank">
