@@ -66,9 +66,9 @@ Community builder at **R-Ladies Tirana** 💜 and passionate about learning & sh
 Lead @ PyLadies Tirana | Empowering women in tech & fostering a supportive Python community 🚀🐍
 
 - 👩‍💻 Lead @ PyLadies Tirana 
-- 💡 Python Developer @ Datawise Solutions  
+- 💡 Python Developer 
 - 📚 MSc & BSc in Computer Science – Tirana University  
-- 🧠 Fluent in 🇬🇧 🇮🇹 🇪🇸 🇩🇪 🇵🇹  
+- 🧠 Fluent in English,Italian,Spanish, Portuguese and German
 - 🎤 Studio singer | 🏋️ CrossFitter | 🥾 Hiker
 
 <h2>🧪 Current Project</h2>
