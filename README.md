@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋! I'm Mariza Veruari, a Software Developer & AI Engineer </h2>
-<img align="right" height="150" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
+
 <h2>💻 Tech Stack
 </h2> 
+<div>
 <table>
   <tr>
     <td align="left">
@@ -56,7 +57,7 @@
     </td>
   </tr>
 </table>
-
+<img align="right" height="150" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" /></div>
 <h2> 🎤 About Me </h2>
 
 I'm known as **The Singing Programmer** 🎶 — blending code with creativity!  
