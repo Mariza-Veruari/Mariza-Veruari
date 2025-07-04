@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! I'm Mariza Veruari, a Software Developer & AI Engineer </h2>
-
-###
-
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" />
-
-###
-
 <h2>💻 Tech Stack
 </h2> 
 <table>
