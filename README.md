@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 My name is  Mariza Veruari and I am  a Software Developer & AI Engineer </h2>
+<h2 align="left">Hi!👋 My name is  Mariza  and I am  a Software Developer & AI Engineer </h2>
 
 <h2>💻 Tech Stack
 </h2> 
