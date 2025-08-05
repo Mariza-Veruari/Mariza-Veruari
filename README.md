@@ -62,7 +62,7 @@
 
 I'm known as **The Singing Programmer** 🎶 — blending code with creativity!  
 Currently developing with **Python, JavaScript**, and exploring **AI, LLMs & MLOps** 🤖  
-Community builder at **R-Ladies Tirana** 💜 and passionate about learning & sharing tech knowledge!
+Community builder at **R-Ladies Tirana** 💜 and passionate about learning & sharing tech knowledge!</br>
 Lead @ PyLadies Tirana | Empowering women in tech & fostering a supportive Python community 🚀🐍
 
 - 👩‍💻 Lead @ PyLadies Tirana 
